@@ -7,7 +7,8 @@
 <p align="center">
   <a href="#updates">Updates</a> • 
   <a href="#course-syllabus">Course Syllabus</a> • 
-  <a href="#the-battle-of-neighborhoods">The Battle of Neighborhoods</a>
+  <a href="#the-battle-of-neighborhoods">The Battle of Neighborhoods</a> • 
+  <a href="#references">References</a>
 </p>
 
 ## Updates
@@ -70,3 +71,8 @@ Since longitude and latitude for each school is not listed, [HERE](https://devel
 
 + The geojson data for Taiwan is provided by [g0v](https://github.com/g0v/twgeojson). Since the data hasn't been updated for nearly 6 years, some content from the dataset needs to be corrected.
   + I'm fetching [this](https://raw.githubusercontent.com/g0v/twgeojson/master/json/twCounty2010.geo.json) geojson data. As an example of the correction, 桃園縣 (Taoyuan County) needs to be corrected to 桃園市 (Taoyuan City).
+
+## References
++ <https://towardsdatascience.com/the-easiest-way-to-interpret-clustering-result-8137e488a127>
++ <https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/>
++ <https://github.com/g0v/twgeojson>
